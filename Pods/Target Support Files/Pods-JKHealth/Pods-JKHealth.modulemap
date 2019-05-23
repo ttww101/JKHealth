@@ -1,0 +1,6 @@
+module Pods_JKHealth {
+  umbrella header "Pods-JKHealth-umbrella.h"
+
+  export *
+  module * { export * }
+}
